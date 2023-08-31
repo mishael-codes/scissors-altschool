@@ -5,7 +5,7 @@ window.addEventListener("scroll", displayContent);
 displayContent();
 
 function displayContent() {
-  let trigger = (window.innerHeight / 5) * 4;
+  let trigger = (window.innerHeight / 5) * 5;
 
   hidden.forEach((item) => {
     let itemTop = item.getBoundingClientRect().top;
