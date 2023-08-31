@@ -9038,7 +9038,7 @@ function Rf() {
                 alt: "icon-instagram",
               }),
               s.jsx("img", {
-                src: "/icons/icon-linkedin.svg",
+                src: "icons/icon-linkedin.svg",
                 alt: "icon-linkedin",
               }),
               s.jsx("img", {
