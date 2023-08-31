@@ -10094,7 +10094,7 @@ function Uf() {
                         "Can I customize the shorteneed URL to represent my brand or content?",
                     }),
                     s.jsx("img", {
-                      src: "/icons/icon-plus.svg",
+                      src: "./icons/icon-plus.svg",
                       alt: "icon-plus",
                     }),
                   ],
