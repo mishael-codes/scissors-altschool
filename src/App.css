@@ -918,7 +918,7 @@ footer > div > #footer-logo {
 }
 
 /* ************** Animations ************** */
-@keyframes btn-hover {
+/* @keyframes btn-hover {
   0% {
     transform: translateY(7px);
   }
@@ -947,3 +947,4 @@ footer > div > #footer-logo {
     transform: translateY(0%);
   }
 }
+ */
