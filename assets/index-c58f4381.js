@@ -9786,7 +9786,7 @@ function If() {
                       s.jsxs("li", {
                         children: [
                           s.jsx("img", {
-                            src: "/icons/check-circle.jpg",
+                            src: "icons/check-circle.jpg",
                             alt: "icon-check-circle",
                           }),
                           "Enhanced Link Analytics",
