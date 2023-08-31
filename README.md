@@ -1,2 +1,0 @@
-# scissors-altschool
- 
