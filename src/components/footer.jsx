@@ -2,24 +2,24 @@ export default function Footer() {
   return (
     <footer>
       <img
-        src="../src/assets/icons/footer-pattern-1.svg"
+        src="../src/icons/footer-pattern-1.svg"
         alt="footer-pattern-1"
         id="footer-pattern-1"
       />
       <img
-        src="../src/assets/icons/footer-pattern-2.svg"
+        src="../src/icons/footer-pattern-2.svg"
         alt="footer-pattern-2"
         id="footer-pattern-2"
       />
       <div>
         <div id="footer-logo">
           <img
-            src="../src/assets/icons/footer-icon-chain.svg"
+            src="../src/icons/footer-icon-chain.svg"
             alt="footer-icon-chain"
             id="footer-icon-chain"
           />
           <img
-            src="../src/assets/icons/footer-icon-line.svg"
+            src="../src/icons/footer-icon-line.svg"
             alt="footer-icon-line"
             id="footer-icon-line"
           />
@@ -28,10 +28,10 @@ export default function Footer() {
           </h3>
         </div>
         <div className="socials">
-          <img src="../src/assets/icons/icon-twitter.svg" alt="icon-twitter" />
-          <img src="../src/assets/icons/icon-instagram.svg" alt="icon-instagram" />
-          <img src="../src/assets/icons/icon-linkedin.svg" alt="icon-linkedin" />
-          <img src="../src/assets/icons/icon-facebook.svg" alt="icon-facebook" />
+          <img src="../src/icons/icon-twitter.svg" alt="icon-twitter" />
+          <img src="../src/icons/icon-instagram.svg" alt="icon-instagram" />
+          <img src="../src/icons/icon-linkedin.svg" alt="icon-linkedin" />
+          <img src="../src/icons/icon-facebook.svg" alt="icon-facebook" />
         </div>
       </div>
       <div className="extra-info">

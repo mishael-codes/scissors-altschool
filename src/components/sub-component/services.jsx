@@ -3,7 +3,7 @@ export default function Services() {
     <div className="services">
       <div className="services-group-1">
         <div className="service">
-          <img src="../src/assets/icons/service-icon-link.svg" alt="service-icon-link" />
+          <img src="../src/icons/service-icon-link.svg" alt="service-icon-link" />
           <div>
             <h3>URL Shortening</h3>
             <p>
@@ -13,7 +13,7 @@ export default function Services() {
           </div>
         </div>
         <div className="service">
-          <img src="../src/assets/icons/service-icon-edit.svg" alt="service-icon-edit" />
+          <img src="../src/icons/service-icon-edit.svg" alt="service-icon-edit" />
           <div>
             <h3>Custom URLs</h3>
             <p>
@@ -26,7 +26,7 @@ export default function Services() {
       <div className="services-group-2">
         <div className="service">
           <img
-            src="../src/assets/icons/service-icon-qr-code.svg"
+            src="../src/icons/service-icon-qr-code.svg"
             alt="service-icon-qr-code"
           />
           <div>
@@ -39,7 +39,7 @@ export default function Services() {
         </div>
         <div className="service">
           <img
-            src="../src/assets/icons/service-icon-analytics.svg"
+            src="../src/icons/service-icon-analytics.svg"
             alt="service-icon-analytics"
           />
           <div>

@@ -5,7 +5,7 @@ export default function Choose() {
     <div>
       <div className="choose-us">
         <div>
-          <img src="../src/assets/icons/icon-stroke.svg" alt="icon-stroke" />
+          <img src="../src/icons/icon-stroke.svg" alt="icon-stroke" />
           <h2>
             Why Choose <span className="blue-text">Scissors</span>
           </h2>

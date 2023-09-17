@@ -2,12 +2,12 @@ export default function Trim() {
   return (
     <section className="trim-url">
       <img
-        src="../src/assets/icons/trim-pattern-1.svg"
+        src="../src/icons/trim-pattern-1.svg"
         alt="trim-pattern-1"
         id="trim-pattern-1"
       />
       <img
-        src="../src/assets/icons/trim-pattern-2.svg"
+        src="../src/icons/trim-pattern-2.svg"
         alt="trim-pattern-2"
         id="trim-pattern-2"
       />
@@ -27,7 +27,7 @@ export default function Trim() {
         <div>
           <button className="btn">
             Trim URL
-            <img src="../src/assets/icons/icon-magic wand.svg" alt="icon-magic wand" />
+            <img src="../src/icons/icon-magic wand.svg" alt="icon-magic wand" />
           </button>
           <p>
             By clicking TrimURL, I agree to the
